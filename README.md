@@ -20,3 +20,7 @@ https://github.com/davidkundrats/lipsync-research/assets/98171693/8203967c-86ef-
 
 After:
 
+
+
+https://github.com/davidkundrats/lipsync-research/assets/98171693/79fa50f7-f829-4fd1-b463-21bcf973544e
+
