@@ -15,8 +15,8 @@ Wav2lip can be used as a standalone method of video generation or combined with 
 Here is an example of Wav2lip being used on a video:
 
 **Before:**  
-![Before Wav2lip](https://github.com/davidkundrats/lipsync-research/assets/98171693/8203967c-86ef-4abe-8958-2ad058a3ba3e)
+https://github.com/davidkundrats/lipsync-research/assets/98171693/8203967c-86ef-4abe-8958-2ad058a3ba3e
 
 **After Wav2lip:**  
-![After Wav2lip](https://github.com/davidkundrats/lipsync-research/assets/98171693/79fa50f7-f829-4fd1-b463-21bcf973544e)
+https://github.com/davidkundrats/lipsync-research/assets/98171693/79fa50f7-f829-4fd1-b463-21bcf973544e
 
