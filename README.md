@@ -12,7 +12,7 @@ In the implementation of Wav2lip, there are three models used to generate lip-sy
 
 Wav2lip can be used as a standalone method of video generation or combined with other AI models to improve results.
 
-Here is an example of Wav2lip being used on a video:
+Here is an example of Wav2lip being used on a 3d video:
 
 **Before:**  
 
