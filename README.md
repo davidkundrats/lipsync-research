@@ -18,7 +18,7 @@ Before:
 https://github.com/davidkundrats/lipsync-research/assets/98171693/8203967c-86ef-4abe-8958-2ad058a3ba3e
 
 
-After:
+After Wav2lip:
 
 
 
