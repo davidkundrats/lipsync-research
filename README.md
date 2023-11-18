@@ -1,26 +1,22 @@
 # Exploring Methodology and Modalities in the Wav2lip Model: A Comprehensive Analysis
-Goal: Explore Wav2lip applicability for the generation of lip synced videos on 2d animations.
 
-The implementation of Wav2lip can be found here: https://github.com/Rudrabha/Wav2Lip
+**Goal:** Explore Wav2lip applicability for the generation of lip-synced videos on 2D animations.
 
-In the implementation of Wav2lip, there are 3 models used to generated lip synced 'deepfake' clips. These 3 are the discriminator, the face detection method (in this implementation, it is the sf3d model), and the actual wav2lip model itself. 
+The implementation of Wav2lip can be found [here](https://github.com/Rudrabha/Wav2Lip).
 
-Wav2lip can be used as a standalone method of video generation or combined with other AI models to improve results. 
+In the implementation of Wav2lip, there are three models used to generate lip-synced 'deepfake' clips:
 
-Here is an example of Wav2lip being used on a video: 
+1. The discriminator
+2. The face detection method (in this implementation, it is the sf3d model)
+3. The actual Wav2lip model itself
 
-Before: 
+Wav2lip can be used as a standalone method of video generation or combined with other AI models to improve results.
 
+Here is an example of Wav2lip being used on a video:
 
+**Before:**  
+![Before Wav2lip](https://github.com/davidkundrats/lipsync-research/assets/98171693/8203967c-86ef-4abe-8958-2ad058a3ba3e)
 
-
-
-https://github.com/davidkundrats/lipsync-research/assets/98171693/8203967c-86ef-4abe-8958-2ad058a3ba3e
-
-
-After Wav2lip:
-
-
-
-https://github.com/davidkundrats/lipsync-research/assets/98171693/79fa50f7-f829-4fd1-b463-21bcf973544e
+**After Wav2lip:**  
+![After Wav2lip](https://github.com/davidkundrats/lipsync-research/assets/98171693/79fa50f7-f829-4fd1-b463-21bcf973544e)
 
