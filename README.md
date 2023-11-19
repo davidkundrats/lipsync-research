@@ -32,3 +32,11 @@ As you can see Wav2lip can be the basis of a convincing lip sync video.
 ## Application on animated videos
 
 Extrapolation the success of Wav2lip onto animated videos is an interesting concept.
+
+Here is an example of Wav2lip being used on an animated video:
+
+https://github.com/davidkundrats/lipsync-research/assets/98171693/05374220-361d-4df6-9bbd-1d3ff03df25f
+
+There are artifacts and other anomolies that occur, but the concept is there. 
+
+## Training
