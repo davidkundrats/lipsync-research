@@ -8,7 +8,7 @@ In the implementation of Wav2lip, there are three models used to generate lip-sy
 
 1. The discriminator
 2. The face detection method (in this implementation, it is the sf3d model)
-3. The actual Wav2lip model itself
+3. The Wav2lip model
 
 Wav2lip can be used as a standalone method of video generation or combined with other AI models to improve results.
 
@@ -46,11 +46,18 @@ To install the wav2lip repo on your machine (if not using Monmouth's wav2lip ins
 
     conda create -n wav2lip python=3.10
     conda activate wav2lip
-    git clone https://github.com/Rudrabha/Wav2Lip.git
+    git clone https://github.com/davidkundrats/Wav2Lip.git
     cd wav2lip
     conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
     pip install -r requirements.txt
 
+After getting the model installed, you will need to import the weights. They can be found here; underneath the heading "Getting the weights": https://github.com/Rudrabha/Wav2Lip. 
 
-Thats it! You should be set up. 
+You will need to import the weights for the model (wav2lip) and the discriminator (expert discriminator). Place them in this folder: /checkpoints/
+You also will need the weights for the sf3d face detector and place them in this folder: /face_detection/detection/sfd/
+    
+Thats it! You should be ready to go. 
+## Running the model
+
+The interface for inferenecing is done through inference.py.
 
