@@ -39,4 +39,18 @@ https://github.com/davidkundrats/lipsync-research/assets/98171693/05374220-361d-
 
 There are artifacts and other anomolies that occur, but the concept is there. 
 
-## Training
+## Installation
+
+### I reccomend using this model on a machine that has a cuda enabled GPU for faster procesing. 
+To install the wav2lip repo on your machine (if not using Monmouth's wav2lip installationn): 
+
+    conda create -n wav2lip python=3.10
+    conda activate wav2lip
+    git clone https://github.com/Rudrabha/Wav2Lip.git
+    cd wav2lip
+    conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+    pip install -r requirements.txt
+
+
+Thats it! You should be set up. 
+
