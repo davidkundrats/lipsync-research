@@ -61,3 +61,5 @@ Thats it! You should be ready to go.
 
 The interface for inferenecing is done through inference.py.
 
+    python inference.py --checkpoint_path </path/to/wav2lip.pth> --face </path/to/video.mp4> --audio </path/to/an-audio-source> 
+
