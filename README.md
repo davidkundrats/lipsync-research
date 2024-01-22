@@ -42,7 +42,7 @@ There are artifacts and other anomolies that occur, but the concept is there.
 ## Installation
 
 ### I reccomend using this model on a machine that has a cuda enabled GPU for faster procesing. 
-I also reccomend using [conda]https://www.anaconda.com/download for clean installation.
+I also reccomend using [conda](https://www.anaconda.com/download) for clean installation.
 To install the wav2lip repo on your machine (if not using Monmouth's wav2lip installationn): 
 
     conda create -n wav2lip python=3.10
