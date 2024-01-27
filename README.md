@@ -1,4 +1,4 @@
-# Exploring Methodology and Modalities in the Wav2lip Model: A Comprehensive Analysis
+# Exploring Modalities in the Wav2lip Model: A Comprehensive Analysis
 
 **Goal:** Explore Wav2lip applicability for the generation of lip-synced videos on 2D animations.
 
